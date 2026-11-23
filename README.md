@@ -105,8 +105,8 @@ Otras entradas de los datos de ejemplo: `Camiseta Roja` (stock suficiente, sin a
 | Documento | Enlace |
 |---|---|
 | Documentación del proyecto | [documentacion/Documentacion_Proyecto_Final.md](Documentacion/Documentacion_Proyecto_Final.md) |
-| Presentación | [presentacion/Presentacion_Proyecto_Final.pdf](Presentacion/Presentacion_Proyecto_Final.pdf) |
-| Bitácora de pruebas (clase 11) | [pruebas/Bitacora_Clase_11_Pruebas.md](Pruebas/Bitacora_Clase_11_Pruebas.md) |
+| Presentación | [presentacion/Presentacion_Proyecto_Final.pdf](Presentacion.pdf) |
+| Bitácora de pruebas (clase 11) | [pruebas/Bitacora_Clase_11_Pruebas.md](Pruebas/C11_2026-11-9-Bitacora_Revision_Integral_Proyecto.md) |
 | Diagrama proceso manual | [documentacion/diagramas/Proceso_Manual.png](Documentacion/diagramas/Proceso_Manual.png) |
 | Diagrama proceso automatizado | [documentacion/diagramas/Proceso_Automatizado.png](Documentacion/diagramas/Proceso_Automatizado.png) |
 
