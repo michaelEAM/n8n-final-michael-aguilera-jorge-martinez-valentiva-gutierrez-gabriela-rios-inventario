@@ -46,7 +46,7 @@ Webhook (GET) ─► Supabase: buscar producto ─► ¿Encontró? ─► Prepar
 | Google Gemini | **Solo redacta** asunto y cuerpo del aviso. No decide stock, prioridad ni destinatario |
 | Gmail (OAuth2) | Envía el aviso |
 
-Detalle completo en la [documentación](documentacion/Documentacion_Proyecto_Final.md).
+Detalle completo en la [documentación](Documentacion/Documentacion_Proyecto_Final.md).
 
 ## 3. Requisitos
 
