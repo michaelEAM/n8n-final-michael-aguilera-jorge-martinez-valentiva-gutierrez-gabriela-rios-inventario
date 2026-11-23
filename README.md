@@ -75,7 +75,7 @@ Detalle completo en la [documentación](Documentacion/Documentacion_Proyecto_Fin
 
 ## 5. Importación y ejecución
 
-1. En n8n: **Workflows → Import from file →** [`workflows/Workflow_Final.json`](Workflows/Workflow_Final - Inventario revisión de stock .json).
+1. En n8n: **Workflows → Import from file →** [`workflows/Workflow_Final.json`](Workflows/Workflow_Final.json).
 2. Selecciona tus credenciales en cada nodo marcado y ajusta URLs y destinatario.
 3. Para probar rápido: ejecuta con **Execute workflow** (el disparador manual trae un producto de ejemplo).
 4. Para probar por HTTP: activa el workflow y llama al Webhook de **producción**:
@@ -132,7 +132,7 @@ Otras entradas de los datos de ejemplo: `Camiseta Roja` (stock suficiente, sin a
 - El texto de la IA se valida en formato, no en veracidad de cifras (la tabla del correo sí usa datos reales).
 - Con stock = mínimo = 0 se genera una alerta con 0 faltantes.
 
-Estado de cada pendiente en la [bitácora](Pruebas/Bitacora_Clase_11_Pruebas.md).
+Estado de cada pendiente en la [bitácora](Pruebas/C11_2026-11-9-Bitacora_Revision_Integral_Proyecto.md).
 
 ## 10. Seguridad
 
