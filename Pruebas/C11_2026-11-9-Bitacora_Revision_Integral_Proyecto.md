@@ -14,9 +14,7 @@ Hoy documentamos la revisión del diseño y los pendientes. Las pruebas formales
 - **Fecha de la clase:** [2026-11-09]
 - **Proyecto:** [Inventario: revisión de stock y alertas de reposición (n8n + Supabase + Gemini + Gmail)]
 - **Integrantes presentes:** [Gabriela Rios, Valentina Gutierrez, Michael Aguilera, Jorge Martinez]
-- **Versión revisada:** [Versión, fecha del JSON o referencia del repositorio]
-- **Workflows relacionados:** [`Preparar_Producto.json`, `Manejador_Errores.json` y `Preparar_Supabase.sql`]
-- **Diagrama revisado:** []
+
 
 ## 2. Recorrido completo del proyecto
 
