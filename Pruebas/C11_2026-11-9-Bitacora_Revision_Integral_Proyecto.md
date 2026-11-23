@@ -473,6 +473,4 @@ Texto de la IA sin verificación de cifras : el contrato valida el formato, no l
 
 Deben quedar resueltos los casos de prueba.
 
-**¿Qué limitaciones o dudas siguen abiertas?**
 
-[Completar]
