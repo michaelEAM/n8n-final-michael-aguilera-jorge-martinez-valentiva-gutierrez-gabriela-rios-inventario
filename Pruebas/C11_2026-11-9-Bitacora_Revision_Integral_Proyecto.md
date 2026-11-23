@@ -144,7 +144,9 @@ Dupliquen la ficha para tantos casos como necesite el proyecto. Los identificado
 - **Conclusión de la prueba:** aprobada.
     
 - **Evidencia de ejecución:**
-- ![[Pasted image 20261123095203.png]]![[Pasted image 20261123095541.png]]
+- [Evidencia 1](imagenes/20261123095203.png)
+- [Evidencia 2](imagenes/20261123095541.png)
+
     
 
 ### Caso CP-02: Solicitud sin nombre de producto
@@ -174,8 +176,10 @@ Dupliquen la ficha para tantos casos como necesite el proyecto. Los identificado
 - **Conclusión de la prueba:** Datos invalidos.
     
 - **Evidencia de ejecución:
-- ** ![[Pasted image 20261123095831.png]]
-    ![[Pasted image 20261123100143.png]]
+
+- [Evidencia 3](imagenes/20261123095831.png)
+- [Evidencia 4](imagenes/20261123100143.png)
+
 
 ### Caso CP-03: Consulta de producto inexistente
 
@@ -204,11 +208,11 @@ Dupliquen la ficha para tantos casos como necesite el proyecto. Los identificado
 - **Conclusión de la prueba:** Consulto a la base de datos y como no lo encontró genero falso.
     
 - **Evidencia de ejecución:** 
-- ![[Pasted image 20261123100315.png]]
-- 
-- ![[Pasted image 20261123100426.png]]
-- 
-- ![[Pasted image 20261123100457.png]]
+
+- [Evidencia 5](imagenes/20261123100315.png)
+- [Evidencia 6](imagenes/20261123100426.png)
+- [Evidencia 7](imagenes/20261123100457.png)
+
     
 
 ### Caso CP-04: Producto con nombre mal escrito
@@ -238,9 +242,10 @@ Dupliquen la ficha para tantos casos como necesite el proyecto. Los identificado
 - **Conclusión de la prueba:** Fallido.
     
 - **Evidencia de ejecución:** 
-- ![[Pasted image 20261123102823.png]]
-![[Pasted image 20261123102948.png]]
-- 
+
+- [Evidencia 8](imagenes/20261123102823.png)
+- [Evidencia 9](imagenes/20261123102948.png)
+
     
 
 ### Caso CP-05: Producto agotado
@@ -270,11 +275,11 @@ Dupliquen la ficha para tantos casos como necesite el proyecto. Los identificado
 - **Conclusión de la prueba:** Aproba.
     
 - **Evidencia de ejecución:** 
-- ![[Pasted image 20261123104951.png]]
 
-![[Pasted image 20261123104719.png]]
-    
-![[Pasted image 20261123105140.png]]
+- [Evidencia 10](imagenes/20261123104951.png)
+- [Evidencia 11](imagenes/20261123104719.png)
+- [Evidencia 12](imagenes/20261123105140.png)
+
 ### Caso CP-06: Stock superior al mínimo
 
 - **Revisión asociada:** RC-12.
@@ -302,8 +307,9 @@ Dupliquen la ficha para tantos casos como necesite el proyecto. Los identificado
 - **Conclusión de la prueba:** Cumlple.
     
 - **Evidencia de ejecución:** 
-- ![[Pasted image 20261123105344.png]]
-    ![[Pasted image 20261123105736.png]]
+
+- [Evidencia 13](imagenes/20261123105344.png)
+- [Evidencia 14](imagenes/20261123105736.png)
 
 
 ![[Pasted image 20261123105830.png]]
@@ -334,10 +340,11 @@ Dupliquen la ficha para tantos casos como necesite el proyecto. Los identificado
 - **Conclusión de la prueba:** aprobada, informa mediante una alerta al correo .
     
 - **Evidencia de ejecución:** 
-- ![[Pasted image 20261123102350.png]]
-![[Pasted image 20261123101833.png]]
 
-![[Pasted image 20261123102123.png]]
+- [Evidencia 15](imagenes/20261123102350.png)
+- [Evidencia 16](imagenes/20261123101833.png)
+- [Evidencia 17](imagenes/20261123102123.png)
+
 
 ### Caso CP-08: Solicitud repetida del mismo producto
 
@@ -395,7 +402,9 @@ Dupliquen la ficha para tantos casos como necesite el proyecto. Los identificado
 - **Conclusión de la prueba:** Aviso generado con plantilla fija porque la IA no entregó una respuesta utilizable.
     
 - **Evidencia de ejecución:** .
-- ![[Pasted image 20261123113733.png]]
+
+- [Evidencia 18](imagenes/20261123113733.png)
+
     
 
 
