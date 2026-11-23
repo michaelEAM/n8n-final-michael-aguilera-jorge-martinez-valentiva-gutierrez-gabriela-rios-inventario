@@ -75,7 +75,7 @@ Detalle completo en la [documentación](Documentacion/Documentacion_Proyecto_Fin
 
 ## 5. Importación y ejecución
 
-1. En n8n: **Workflows → Import from file →** [`workflows/Workflow_Final.json`](Workflows/Workflow_Final.json).
+1. En n8n: **Workflows → Import from file →** [`workflows/Workflow_Final.json`](Workflows/Workflow_Final - Inventario revisión de stock .json).
 2. Selecciona tus credenciales en cada nodo marcado y ajusta URLs y destinatario.
 3. Para probar rápido: ejecuta con **Execute workflow** (el disparador manual trae un producto de ejemplo).
 4. Para probar por HTTP: activa el workflow y llama al Webhook de **producción**:
