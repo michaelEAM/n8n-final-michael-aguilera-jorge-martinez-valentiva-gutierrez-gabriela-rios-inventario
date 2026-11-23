@@ -75,7 +75,7 @@ Detalle completo en la [documentación](Documentacion/Documentacion_Proyecto_Fin
 
 ## 5. Importación y ejecución
 
-1. En n8n: **Workflows → Import from file →** [`workflows/Workflow_Final.json`](workflows/Workflow_Final.json).
+1. En n8n: **Workflows → Import from file →** [`workflows/Workflow_Final.json`](Workflows/Workflow_Final.json).
 2. Selecciona tus credenciales en cada nodo marcado y ajusta URLs y destinatario.
 3. Para probar rápido: ejecuta con **Execute workflow** (el disparador manual trae un producto de ejemplo).
 4. Para probar por HTTP: activa el workflow y llama al Webhook de **producción**:
@@ -104,12 +104,11 @@ Otras entradas de los datos de ejemplo: `Camiseta Roja` (stock suficiente, sin a
 
 | Documento | Enlace |
 |---|---|
-| Documentación del proyecto | [documentacion/Documentacion_Proyecto_Final.md](documentacion/Documentacion_Proyecto_Final.md) |
-| Presentación | [presentacion/Presentacion_Proyecto_Final.pdf](presentacion/Presentacion_Proyecto_Final.pdf) |
-| Bitácora de pruebas (clase 11) | [pruebas/Bitacora_Clase_11_Pruebas.md](pruebas/Bitacora_Clase_11_Pruebas.md) |
-| Evidencias | [pruebas/evidencias/](pruebas/evidencias/) |
-| Diagrama proceso manual | [documentacion/diagramas/Proceso_Manual.png](documentacion/diagramas/Proceso_Manual.png) |
-| Diagrama proceso automatizado | [documentacion/diagramas/Proceso_Automatizado.png](documentacion/diagramas/Proceso_Automatizado.png) |
+| Documentación del proyecto | [documentacion/Documentacion_Proyecto_Final.md](Documentacion/Documentacion_Proyecto_Final.md) |
+| Presentación | [presentacion/Presentacion_Proyecto_Final.pdf](Presentacion/Presentacion_Proyecto_Final.pdf) |
+| Bitácora de pruebas (clase 11) | [pruebas/Bitacora_Clase_11_Pruebas.md](Pruebas/Bitacora_Clase_11_Pruebas.md) |
+| Diagrama proceso manual | [documentacion/diagramas/Proceso_Manual.png](Documentacion/diagramas/Proceso_Manual.png) |
+| Diagrama proceso automatizado | [documentacion/diagramas/Proceso_Automatizado.png](Documentacion/diagramas/Proceso_Automatizado.png) |
 
 ## 8. Estructura del repositorio
 
@@ -121,7 +120,7 @@ Otras entradas de los datos de ejemplo: `Camiseta Roja` (stock suficiente, sin a
 │   └── diagramas/{Proceso_Manual.png, Proceso_Automatizado.png}
 ├── pruebas/
 │   ├── Bitacora_Clase_11_Pruebas.md
-│   └── evidencias/
+│   
 └── presentacion/Presentacion_Proyecto_Final.pdf
 ```
 
@@ -133,8 +132,8 @@ Otras entradas de los datos de ejemplo: `Camiseta Roja` (stock suficiente, sin a
 - El texto de la IA se valida en formato, no en veracidad de cifras (la tabla del correo sí usa datos reales).
 - Con stock = mínimo = 0 se genera una alerta con 0 faltantes.
 
-Estado de cada pendiente en la [bitácora](pruebas/Bitacora_Clase_11_Pruebas.md).
+Estado de cada pendiente en la [bitácora](Pruebas/Bitacora_Clase_11_Pruebas.md).
 
 ## 10. Seguridad
 
-El repositorio no contiene claves, tokens ni datos reales. Los datos de ejemplo son ficticios. Crea siempre tus propias credenciales.
+El repositorio no contiene claves, tokens ni datos reales. Los datos de ejemplo son ficticios.
